@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is my new account. The old one is [@pattisahusiwa](https://github.com/pattisahusiwa).
+
 <!--
 **asispts/asispts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
