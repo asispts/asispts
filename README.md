@@ -1,5 +1,12 @@
 # Hi there! :wave:
 
+Welcome to my GitHub profile!
+
+I'm ***Asis***, and this is where I showcase my personal projects.
+
+
+## About Me
+
 Back in 2006, I began my programming journey by learning `Pascal` and `Visual Basic`.
 Subsequently, I gained proficiency in `PHP` and built several websites for my very first clients.
 I also became proficient in `Xojo`, previously known as `RealBASIC`, as an alternative to `Visual Basic`.
@@ -11,6 +18,8 @@ I also worked on several project using `WordPress`, `Laravel`, and frontend fram
 
 Overall, I have gained expertise in various programming languages and frameworks, allowing me to handle both backend and frontend projects effectively.
 
+
+
 ## Contributions
 
 In addition to my personal projects, I contribute to open source projects through [@pts-contrib](https://github.com/pts-contrib) account.
@@ -21,9 +30,11 @@ If you're interested in exploring more of my work, you can check out the followi
 - [@pts-tpl](https://github.com/pts-tpl): Account for storing HTML templates that I create in my spare time.
 
 
+
 ## Freelancing and Consulting
 
 I'm available for freelance work and consulting, preferably remote. Let's discuss your projects or ideas! Feel free to contact me via [email](mailto:asispts@gmail.com) or invite me on [Upwork](https://www.upwork.com/freelancers/~0166f08c7b943450f3) for collaboration.
+
 
 
 ---
