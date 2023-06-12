@@ -1,11 +1,9 @@
-<img src="https://komarev.com/ghpvc/?username=asispts&label=Visitors&color=0e75b6&style=flat" width="0">
-
-# Hi there! :wave:
-
-Welcome to my GitHub profile!
-
-I'm ***Asis***, and this is where I showcase my personal projects.
-
+# Hi, I'm Asis :wave:
+<h3 align="center">
+  <samp>
+    &raquo; This is where I showcase my personal project &laquo;
+  </samp>
+</h3>
 
 <details>
   <summary>
@@ -24,7 +22,7 @@ I'm ***Asis***, and this is where I showcase my personal projects.
 
   Overall, I have gained expertise in various programming languages and frameworks, allowing me to handle both backend and frontend projects effectively.
 </details>
-
+<img src="https://komarev.com/ghpvc/?username=asispts&label=Visitors&color=0e75b6&style=flat" height="0">
 
 
 ## Contributions
@@ -46,7 +44,6 @@ I'm available for freelance work and consulting, preferably remote. Let's discus
 
 ---
 Thanks for visiting my profile! Let's create something amazing together. Have a great day! 😊
-
 
 [![asispts's GitHub stats](https://github-readme-stats.vercel.app/api?username=asispts&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
