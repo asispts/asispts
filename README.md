@@ -8,7 +8,7 @@ I'm ***Asis***, and this is where I showcase my personal projects.
 ## About Me
 
 Back in 2006, I began my programming journey by learning `Pascal` and `Visual Basic`.
-Subsequently, I gained proficiency in `PHP` and built several websites for my very first clients.
+Later on, I gained proficiency in `PHP` and built several websites for my very first clients.
 I also became proficient in `Xojo`, previously known as `RealBASIC`, as an alternative to `Visual Basic`.
 
 In 2012, I started my career as a Software Engineer, specializing in cross-platform desktop development.
