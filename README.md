@@ -7,19 +7,23 @@ Welcome to my GitHub profile!
 I'm ***Asis***, and this is where I showcase my personal projects.
 
 
-## About Me
+<details>
+  <summary>
+    <h2>About Me</h2>
+  </summary>
 
-Back in 2006, I began my programming journey by learning `Pascal` and `Visual Basic`.
-Later on, I gained proficiency in `PHP` and built several websites for my very first clients.
-I also became proficient in `Xojo`, previously known as `RealBASIC`, as an alternative to `Visual Basic`.
+  Back in 2006, I began my programming journey by learning `Pascal` and `Visual Basic`.
+  Later on, I gained proficiency in `PHP` and built several websites for my very first clients.
+  I also became proficient in `Xojo`, previously known as `RealBASIC`, as an alternative to `Visual Basic`.
 
-In 2012, I started my career as a Software Engineer, specializing in cross-platform desktop development.
-During this time, I created several applications for `Windows`, `Linux`, and `macOS` using `Xojo`.
-After a few years, I transitioned to become a Full-stack Web Developer, utilizing `CodeIgniter` and `Symfony`.
-I further expanded my expertise in backend development with a strong focus on `Symfony`.
-I also worked on several project using `WordPress`, `Laravel`, and frontend frameworks like `React` and `Vue`.
+  In 2012, I started my career as a Software Engineer, specializing in cross-platform desktop development.
+  During this time, I created several applications for `Windows`, `Linux`, and `macOS` using `Xojo`.
+  After a few years, I transitioned to become a Full-stack Web Developer, utilizing `CodeIgniter` and `Symfony`.
+  I further expanded my expertise in backend development with a strong focus on `Symfony`.
+  I also worked on several project using `WordPress`, `Laravel`, and frontend frameworks like `React` and `Vue`.
 
-Overall, I have gained expertise in various programming languages and frameworks, allowing me to handle both backend and frontend projects effectively.
+  Overall, I have gained expertise in various programming languages and frameworks, allowing me to handle both backend and frontend projects effectively.
+</details>
 
 
 
