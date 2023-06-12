@@ -11,8 +11,8 @@ Back in 2006, I began my programming journey by learning `Pascal` and `Visual Ba
 Subsequently, I gained proficiency in `PHP` and built several websites for my very first clients.
 I also became proficient in `Xojo`, previously known as `RealBASIC`, as an alternative to `Visual Basic`.
 
-In 2012, I started my career as a software engineer, specializing in cross-platform desktop development.
-After a few years, I transitioned to become a full-stack web developer, utilizing `CodeIgniter` and `Symfony`.
+In 2012, I started my career as a Software Engineer, specializing in Cross-Platform Desktop Development.
+After a few years, I transitioned to become a Full-stack Web Developer, utilizing `CodeIgniter` and `Symfony`.
 I further expanded my expertise in backend development with a strong focus on `Symfony`.
 I also worked on several project using `WordPress`, `Laravel`, and frontend frameworks like `React` and `Vue`.
 
