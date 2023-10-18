@@ -11,16 +11,18 @@
   </summary>
 
   Back in 2006, I began my programming journey by learning `Pascal` and `Visual Basic`.
-  Later on, I gained proficiency in `PHP` and built several websites for my very first clients.
-  I also became proficient in `Xojo`, previously known as `RealBASIC`, as an alternative to `Visual Basic`.
+  Then, I got good at `PHP` and made websites for my first clients.
+  I also learned `Xojo`, a.k.a `RealBASIC`, as another way to make programs like `Visual Basic`.
 
-  In 2012, I started my career as a Software Engineer, specializing in cross-platform desktop development.
-  During this time, I created several applications for `Windows`, `Linux`, and `macOS` using `Xojo`.
+  In 2012, I began my career as a Remote Software Engineer.
+  I worked for a company in Italy, making apps that worked on `Windows`, `Linux`, and `macOS` using `Xojo`.
+  During this time, I also did freelance work for companies in Europe and Asia.
+
   After a few years, I transitioned to become a Full-stack Web Developer, utilizing `CodeIgniter` and `Symfony`.
   I further expanded my expertise in backend development with a strong focus on `Symfony`.
   I also worked on several project using `WordPress`, `Laravel`, and frontend frameworks like `React` and `Vue`.
 
-  Overall, I have gained expertise in various programming languages and frameworks, allowing me to handle both backend and frontend projects effectively.
+  Looking ahead, my plan is to expand my skills further by learning and developing mobile apps as well.
 </details>
 <img src="https://komarev.com/ghpvc/?username=asispts&label=Visitors&color=0e75b6&style=flat" height="0">
 
