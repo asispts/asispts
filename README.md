@@ -38,9 +38,9 @@ If you're interested in exploring more of my work, you can check out the followi
 
 
 
-## Freelancing and Consulting
+<!-- ## Freelancing and Consulting
 
-I'm available for freelance work and consulting, preferably remote. Let's discuss your projects or ideas! Feel free to contact me via [email](mailto:asispts@gmail.com) or invite me on [Upwork](https://www.upwork.com/freelancers/~0166f08c7b943450f3) for collaboration.
+I'm available for freelance work and consulting, preferably remote. Let's discuss your projects or ideas! Feel free to contact me via [email](mailto:asispts@gmail.com) or invite me on [Upwork](https://www.upwork.com/freelancers/~0166f08c7b943450f3) for collaboration. -->
 
 
 
