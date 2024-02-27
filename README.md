@@ -1,52 +1,47 @@
-# Hi, I'm Asis :wave:
+# :wave: Hi, there!
 <h3 align="center">
   <samp>
-    &raquo; This is where I showcase my personal project &laquo;
+    &raquo; This is where I showcase my personal projects and contributions &laquo;
   </samp>
 </h3>
 
-<details>
-  <summary>
-    <h2>About Me</h2>
-  </summary>
+---
 
-  Back in 2006, I began my programming journey by learning `Pascal` and `Visual Basic`.
-  Then, I got good at `PHP` and made websites for my first clients.
-  I also learned `Xojo`, a.k.a `RealBASIC`, as another way to make programs like `Visual Basic`.
+## :star2: About me
+A seasoned Backend/Full-stack Developer who used to work as a Cross-Platform Desktop Developer.
+
+<details>
+  <summary>:train2: My Journey</summary>
+
+  Here's a glimpse of my learning journey:
+  - 2005: Started my coding journey with `Pascal` and `Visual Basic`.
+  - 2007: Began learning `REALBAsic` (a.k.a `Xojo`), diving into cross-platform desktop development.
+  - 2008: Learned `PHP` and built my first website for a client in 2009.
 
   In 2012, I began my career as a Remote Software Engineer.
-  I worked for a company in Italy, making apps that worked on `Windows`, `Linux`, and `macOS` using `Xojo`.
-  During this time, I also did freelance work for companies in Europe and Asia.
+  I worked for a company in Italy, developing apps for `Windows`, `Linux`, and `macOS` using `Xojo`.
+  I also worked as a freelancer for several companies in Europe and Asia.
 
-  After a few years, I transitioned to become a Full-stack Web Developer, utilizing `CodeIgniter` and `Symfony`.
-  I further expanded my expertise in backend development with a strong focus on `Symfony`.
-  I also worked on several project using `WordPress`, `Laravel`, and frontend frameworks like `React` and `Vue`.
+  After a few years, I transitioned to become a Full-stack Web Developer, primarily using CodeIgniter and Symfony.
+  I further expanded my expertise in backend development, with a strong focus on Symfony Framework.
+  I also gained experience with WordPress, Laravel, and various frontend frameworks for different projects.
 
-  Looking ahead, my plan is to expand my skills further by learning and developing mobile apps as well.
+  Looking ahead, I want to dive into mobile development as well.
 </details>
-<img src="https://komarev.com/ghpvc/?username=asispts&label=Visitors&color=0e75b6&style=flat" height="0">
 
-
-## Contributions
-
+&nbsp;
+## :globe_with_meridians: Contributions
 In addition to my personal projects, I contribute to open source projects through [@pts-contrib](https://github.com/pts-contrib) account.
 
-If you're interested in exploring more of my work, you can check out the following accounts:
-- [@pattisahusiwa](https://github.com/pattisahusiwa): My old account.
-- [@pts-contrib](https://github.com/pts-contrib): Account for open source project contributions.
-- [@pts-tpl](https://github.com/pts-tpl): Account for storing HTML templates that I create in my spare time.
+You also can check my old account: [@pattisahusiwa](https://github.com/pattisahusiwa).
 
-
-
-<!-- ## Freelancing and Consulting
-
-I'm available for freelance work and consulting, preferably remote. Let's discuss your projects or ideas! Feel free to contact me via [email](mailto:asispts@gmail.com) or invite me on [Upwork](https://www.upwork.com/freelancers/~0166f08c7b943450f3) for collaboration. -->
-
+&nbsp;
+## :handshake: Get in touch
+Want to collaborate or discuss a project? Drop me an email at [asispts+github@gmail.com](mailto:asispts+github@gmail.com)!
 
 
 ---
-Thanks for visiting my profile! Let's create something amazing together. Have a great day! 😊
-
 [![asispts's GitHub stats](https://github-readme-stats.vercel.app/api?username=asispts&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asispts&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://komarev.com/ghpvc/?username=asispts&label=Visitors&color=0e75b6&style=flat" height="0">
