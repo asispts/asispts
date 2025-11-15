@@ -24,6 +24,6 @@ Find all my contributions under [@pts-contrib](https://github.com/pts-contrib).
 
 ## Get in Touch
 
-[Website](https://asispts.dev) • [Twitter](https://twitter.com/asispts) • [Email](mailto:hello@asispts.dev)
+[Website](https://asispts.dev) • [Twitter](https://x.com/asispts) • [Email](mailto:asispts@gmail.com)
 
 Open to collaboration on backend tooling, microservices, or event-driven projects.
