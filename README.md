@@ -27,3 +27,6 @@ Find all my contributions under [@pts-contrib](https://github.com/pts-contrib).
 [Website](https://asispts.dev) • [Twitter](https://x.com/asispts) • [Email](mailto:asispts@gmail.com)
 
 Open to collaboration on backend tooling, microservices, or event-driven projects.
+
+
+<img src="https://komarev.com/ghpvc/?username=asispts&label=Visitors&color=0e75b6&style=flat" height="0px" width="0px">
