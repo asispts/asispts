@@ -7,7 +7,7 @@ I build tools and libraries that improve developer workflows and system reliabil
 ## Open Source Highlights
 
 - **[http-accept](https://github.com/asispts/http-accept)**  
-  Fast, reliable HTTP header parser — 38K+ downloads, used by [flarum/json-api-server](https://github.com/flarum/json-api-server).  
+  Fast, reliable HTTP header parser — 38K+ downloads.
 - **[deptree-php](https://github.com/asispts/deptree-php)**  
   Visualize PHP class dependencies to simplify large codebases.  
 - **[ptscs](https://github.com/asispts/ptscs)**  
