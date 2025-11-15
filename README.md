@@ -1,6 +1,6 @@
 # Hi, I'm Asis 👋
 
-Backend engineer focused on distributed microservices, with 12+ years of remote development experience.
+Backend engineer focused on distributed microservices.
 I build tools and libraries that improve developer workflows and system reliability.
 
 
