@@ -20,7 +20,7 @@ Find all my contributions under [@pts-contrib](https://github.com/pts-contrib).
 ## Tech Stack
 
 - Primary: Symfony • Go • TypeScript  
-- Exploring: Rust • Zig • Kotlin
+- Exploring: Zig • Rust
 
 ## Get in Touch
 
