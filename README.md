@@ -1,60 +1,29 @@
-# 👋 Hi, I'm Asis
+# Hi, I'm Asis 👋
 
-<h3 align="center">
-  <samp>
-    &raquo; Self-taught · Backend-focused · Cross-platform experience &laquo;
-  </samp>
-</h3>
+Backend engineer focused on distributed microservices, with 12+ years of remote development experience.
+I build tools and libraries that improve developer workflows and system reliability.
 
----
-<p>&nbsp;</p>
 
-## 🌟 About Me
+## Open Source Highlights
 
-I'm a self-taught Software Engineer with over **13 years** of professional experience.\
-I started out building **cross-platform desktop applications**, then transitioned into **full-stack and backend-focused development**.
+- **[http-accept](https://github.com/asispts/http-accept)**  
+  Fast, reliable HTTP header parser — 38K+ downloads, used by [flarum/json-api-server](https://github.com/flarum/json-api-server).  
+- **[deptree-php](https://github.com/asispts/deptree-php)**  
+  Visualize PHP class dependencies to simplify large codebases.  
+- **[ptscs](https://github.com/asispts/ptscs)**  
+  Enforces stricter PSR-12 coding standards for PHP_CodeSniffer.  
+- **[dicontainer](https://github.com/asispts/dicontainer)**  
+  Lightweight PSR-11 compliant dependency injection container.
 
-I enjoy solving real-world problems with simple, practical, and maintainable code — whether working independently or as part of a team.
+Find all my contributions under [@pts-contrib](https://github.com/pts-contrib).
 
-<details>
-  <summary>🛠️ My Journey</summary>
+## Tech Stack
 
-  <p></p>
+- Primary: Symfony • Go • TypeScript  
+- Exploring: Rust • Zig • Kotlin
 
-  - 2005: Learned `Pascal` and `Visual Basic`
-  - 2007: Built desktop apps using `REALbasic` / `Xojo`
-  - 2009: Made my first website for a client using `PHP`
-  - 2012: Started working remotely for an Italian company (5+ years)
-    - Built desktop apps for `Windows`, `Linux`, and `macOS`
-    - Created CGI-based websites
-  - Since then:
-    - Worked with companies across the US, Europe, and Asia
-    - Focused on web development, backend APIs and microservices (`Symfony`, `Golang`, `TypeScript`)
-  - What's Next:
-    - Revisiting AI and systems programming (`Zig`, `Rust`)
-    - Exploring mobile development (`Kotlin`)
-</details>
+## Get in Touch
 
-<p>&nbsp;</p>
+[Website](https://asispts.dev) • [Twitter](https://twitter.com/asispts) • [Email](mailto:hello@asispts.dev)
 
-## 🌐 Open Source
-
-- Contributing through [@pts-contrib](https://github.com/pts-contrib)
-- My current work lives under [@asispts](https://github.com/asispts)
-- Older projects and contributions: [@pattisahusiwa](https://github.com/pattisahusiwa)
-
-<!-- <p>&nbsp;</p>
-
-## 📌 Pinned Repositories
-Some projects and forks I’m actively working on or maintaining:
-
-- [`project-name`](https://github.com/the-url)
-  The description -->
-
-<p>&nbsp;</p>
-
-## 📫 Contact
-
-Email me at [asispts+github@gmail.com](mailto:asispts+github@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=asispts&label=Visitors&color=0e75b6&style=flat" height="0px" width="0px">
+Open to collaboration on backend tooling, microservices, or event-driven projects.
