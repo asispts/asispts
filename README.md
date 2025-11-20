@@ -6,20 +6,20 @@ I build tools and libraries that improve developer workflows and system reliabil
 
 ## Open Source Highlights
 
-- **[http-accept](https://github.com/asispts/http-accept)**  
+- **[http-accept](https://github.com/asispts/http-accept)**
   Fast, reliable HTTP header parser — 38K+ downloads.
-- **[deptree-php](https://github.com/asispts/deptree-php)**  
-  Visualize PHP class dependencies to simplify large codebases.  
-- **[ptscs](https://github.com/asispts/ptscs)**  
-  Enforces stricter PSR-12 coding standards for PHP_CodeSniffer.  
-- **[dicontainer](https://github.com/asispts/dicontainer)**  
+- **[deptree-php](https://github.com/asispts/deptree-php)**
+  Visualize PHP class dependencies to simplify large codebases.
+- **[dicontainer](https://github.com/asispts/dicontainer)**
   Lightweight PSR-11 compliant dependency injection container.
+- **[ptscs](https://github.com/asispts/ptscs)**
+  Enforces stricter PSR-12 coding standards for PHP_CodeSniffer.
 
 Find all my contributions under [@pts-contrib](https://github.com/pts-contrib).
 
 ## Tech Stack
 
-- **Primary:** Symfony • Go • TypeScript  
+- **Primary:** Symfony • Go • TypeScript
 - **Exploring:** Zig • Rust
 
 ## Get in Touch
