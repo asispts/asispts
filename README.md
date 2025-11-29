@@ -1,13 +1,14 @@
 # Hi, I'm Asis 👋
 
+<!--
 Backend engineer focused on distributed microservices.
 I build tools and libraries that improve developer workflows and system reliability.
-
 
 ## Open Source Highlights
 
 - **[http-accept](https://github.com/asispts/http-accept)**
   Fast, reliable HTTP header parser <!-- — 38K+ downloads. -->
+<!--
 - **[deptree-php](https://github.com/asispts/deptree-php)**
   Visualize PHP class dependencies to simplify large codebases.
 - **[dicontainer](https://github.com/asispts/dicontainer)**
@@ -21,7 +22,7 @@ Find all my contributions under [@pts-contrib](https://github.com/pts-contrib).
 
 - **Primary:** Symfony • Go • TypeScript
 - **Exploring:** Zig • Rust
-
+-->
 ## Get in Touch
 
 [Website](https://asispts.dev) • [Twitter](https://x.com/asispts) • [Email](mailto:asispts@gmail.com)
