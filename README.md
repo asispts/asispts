@@ -7,7 +7,7 @@ I build tools and libraries that improve developer workflows and system reliabil
 ## Open Source Highlights
 
 - **[http-accept](https://github.com/asispts/http-accept)**
-  Fast, reliable HTTP header parser — 38K+ downloads.
+  Fast, reliable HTTP header parser <!-- — 38K+ downloads. -->
 - **[deptree-php](https://github.com/asispts/deptree-php)**
   Visualize PHP class dependencies to simplify large codebases.
 - **[dicontainer](https://github.com/asispts/dicontainer)**
